@@ -20,8 +20,8 @@ def find_input(URL_INPUT):
 #this on is formatted like json if that helps
 yourinputs = {
 #formatted like this
-#	inputone = 'hi hello',
-#	inputwo = 'hows your day going'
+#	"inputone":  'hi hello',
+#	"inputwo": 'hows your day going'
 }
 #I name shit in python weird, you can rename it but you have to rename it everywhere
 def putinthedata(URL_INPUT):
